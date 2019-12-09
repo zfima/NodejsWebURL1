@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-web-url1",
+  "version": "0.0.0",
+  "description": "NodejsWebURL1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {}
+}
